@@ -1,2 +1,34 @@
+# Normalize line endings: enforce LF for text files across platforms
+* text=auto
+
+# Text files (force LF)
+*.md      text eol=lf
+*.markdown text eol=lf
+*.yml     text eol=lf
+*.yaml    text eol=lf
+*.html    text eol=lf
+*.liquid  text eol=lf
+*.scss    text eol=lf
+*.css     text eol=lf
+*.js      text eol=lf
+*.ts      text eol=lf
+*.json    text eol=lf
+*.rb      text eol=lf
+*.sh      text eol=lf
+
+# Windows scripts keep CRLF
+*.bat     text eol=crlf
+*.cmd     text eol=crlf
+
+# Binary assets (no EOL conversion)
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.webp    binary
+*.pdf     binary
+*.ico     binary
+*.woff    binary
+*.woff2   binary
 # Force LF line endings, needed for Docker to work on Windows
 *.sh text eol=lf
