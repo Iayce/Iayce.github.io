@@ -75,7 +75,6 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 - CCF BDCI Ernie Bot Plugin Track — National Third Prize (Nov 2023)
 </small>
 
-{% raw %}
 <hr/>
 <h2 class="mt-4 mb-3">Life snapshots</h2>
 
@@ -185,4 +184,3 @@ document.addEventListener('keydown', function(event) {
   cursor: pointer;
 }
 </style>
-{% endraw %}
