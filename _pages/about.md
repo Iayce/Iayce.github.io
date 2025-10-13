@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>华中科技大学</p>
-    <p>武汉，中国</p>
+    <p>Huazhong University of Science and Technology</p>
+    <p>Jayce Xu</p>
+    <p>徐晟杰</p>
 
 selected_papers: true
 social: true
@@ -75,6 +76,16 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 <h2 class="mt-4 mb-3">Life snapshots</h2>
 
 <div id="aboutCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
+  </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="/assets/img/photos/ArtisticPhotos1.jpg" class="d-block w-100" alt="Artistic 1" style="height:400px;object-fit:cover;">
@@ -109,15 +120,5 @@ If you are a professor or collaborator working on AI for science/medicine, secur
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
-    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
-    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
-    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
-    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
-  </div>
 </div>
 {% endraw %}
