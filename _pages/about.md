@@ -9,20 +9,19 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Huazhong University of Science and Technology</p>
-    <p>Baidu NLP · Helix Team · Algorithm Intern</p>
-    <p>Wuhan, China</p>
+    <p>华中科技大学</p>
+    <p>武汉，中国</p>
 
 selected_papers: true
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
@@ -75,31 +74,31 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 <hr/>
 <h2 class="mt-4 mb-3">Life snapshots</h2>
 
-<div id="aboutCarousel" class="carousel slide" data-bs-ride="carousel">
+<div id="aboutCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/img/photos/ArtisticPhotos1.jpg" class="d-block w-100" alt="Artistic 1" style="max-height:420px;object-fit:cover;">
+      <img src="/assets/img/photos/ArtisticPhotos1.jpg" class="d-block w-100" alt="Artistic 1" style="height:400px;object-fit:cover;">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/photos/ArtisticPhotos2.jpg" class="d-block w-100" alt="Artistic 2" style="max-height:420px;object-fit:cover;">
+      <img src="/assets/img/photos/ArtisticPhotos2.jpg" class="d-block w-100" alt="Artistic 2" style="height:400px;object-fit:cover;">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/photos/ArtisticPhotos3.jpg" class="d-block w-100" alt="Artistic 3" style="max-height:420px;object-fit:cover;">
+      <img src="/assets/img/photos/ArtisticPhotos3.jpg" class="d-block w-100" alt="Artistic 3" style="height:400px;object-fit:cover;">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/photos/chuangyeluyan1.jpg" class="d-block w-100" alt="Talk 1" style="max-height:420px;object-fit:cover;">
+      <img src="/assets/img/photos/chuangyeluyan1.jpg" class="d-block w-100" alt="Talk 1" style="height:400px;object-fit:cover;">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/photos/chuangyeluyan2.jpg" class="d-block w-100" alt="Talk 2" style="max-height:420px;object-fit:cover;">
+      <img src="/assets/img/photos/chuangyeluyan2.jpg" class="d-block w-100" alt="Talk 2" style="height:400px;object-fit:cover;">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/photos/NationalScholarshipOralDefense.jpg" class="d-block w-100" alt="Scholarship defense" style="max-height:420px;object-fit:cover;">
+      <img src="/assets/img/photos/NationalScholarshipOralDefense.jpg" class="d-block w-100" alt="Scholarship defense" style="height:400px;object-fit:cover;">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/photos/tiaozhanbei.jpg" class="d-block w-100" alt="Competition" style="max-height:420px;object-fit:cover;">
+      <img src="/assets/img/photos/tiaozhanbei.jpg" class="d-block w-100" alt="Competition" style="height:400px;object-fit:cover;">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/photos/xiaoyouhui.jpg" class="d-block w-100" alt="Alumni event" style="max-height:420px;object-fit:cover;">
+      <img src="/assets/img/photos/xiaoyouhui.jpg" class="d-block w-100" alt="Alumni event" style="height:400px;object-fit:cover;">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#aboutCarousel" data-bs-slide="prev">
@@ -110,5 +109,15 @@ If you are a professor or collaborator working on AI for science/medicine, secur
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#aboutCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
+  </div>
 </div>
 {% endraw %}
