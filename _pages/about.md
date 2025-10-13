@@ -48,26 +48,26 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 
 ## Work Experience
 
-- VLR Lab, Huazhong University of Science and Technology — Group Lead, Drug Repurposing (Dec 2023–Jun 2025)  
+- VLR Lab, Huazhong University of Science and Technology — Group Lead, Drug Repurposing (Dec 2023–Jun 2025)
   Research on applying multi‑agent systems and graph neural networks to drug repurposing
-- Hangzhou Zhi‑Driven Education Technology — Deputy Director, Big Data Algorithms (Aug 2024–Present)  
+- Hangzhou Zhi‑Driven Education Technology — Deputy Director, Big Data Algorithms (Aug 2024–Present)
   Application‑oriented knowledge graphs and agent systems for education
-- Guangzhou Institutes of Biomedicine and Health, CAS — Assistant Researcher (Mar 2025–Aug 2025)  
+- Guangzhou Institutes of Biomedicine and Health, CAS — Assistant Researcher (Mar 2025–Aug 2025)
   AI for spatial transcriptomics and drug sensitivity analysis
-- Baidu PaddlePaddle (Helix) — Algorithm Researcher (Jun 2025–Present)  
+- Baidu PaddlePaddle (Helix) — Algorithm Researcher (Jun 2025–Present)
   AI‑assisted drug screening and related research
 
 ## Competitions
 
 <small>
-- China Robotics & AI Competition — National Third Prize (Aug 2025)  
-- Qiushi Cup Undergraduate Research Competition — University First Prize, individual project (Mar 2025)  
-- Global Campus AI Algorithm Elite Challenge — National Second Prize, team leader (Dec 2024)  
-- Challenge Cup 2024 “List to Solve” Special Track — National First Prize, project lead (Nov 2024)  
-- GDRI Cup Innovation & Entrepreneurship / China International College Students’ Innovation Competition (2024) — University Finals, Excellence Award, team leader (Jun 2024)  
-- HUST 13th “Qiushi Cup” Entrepreneurship Plan — Excellence Award, team leader (May 2024)  
-- HUST “Science and Technology for a Powerful Nation” Creative Works — Bronze Award, team leader (May 2024)  
-- HUST 10th Mobile App Design Contest — Programming Group Champion (Mar 2024)  
+- China Robotics & AI Competition — National Third Prize (Aug 2025)
+- Qiushi Cup Undergraduate Research Competition — University First Prize, individual project (Mar 2025)
+- Global Campus AI Algorithm Elite Challenge — National Second Prize, team leader (Dec 2024)
+- Challenge Cup 2024 “List to Solve” Special Track — National First Prize, project lead (Nov 2024)
+- GDRI Cup Innovation & Entrepreneurship / China International College Students’ Innovation Competition (2024) — University Finals, Excellence Award, team leader (Jun 2024)
+- HUST 13th “Qiushi Cup” Entrepreneurship Plan — Excellence Award, team leader (May 2024)
+- HUST “Science and Technology for a Powerful Nation” Creative Works — Bronze Award, team leader (May 2024)
+- HUST 10th Mobile App Design Contest — Programming Group Champion (Mar 2024)
 - CCF BDCI Ernie Bot Plugin Track — National Third Prize (Nov 2023)
 </small>
 
