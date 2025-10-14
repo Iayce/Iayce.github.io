@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research projects and technical achievements in AI, drug discovery, and security applications.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research, application]
 horizontal: false
 ---
 

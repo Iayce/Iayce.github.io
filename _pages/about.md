@@ -75,6 +75,13 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 - CCF BDCI Ernie Bot Plugin Track — National Third Prize (Nov 2023)
 </small>
 
+## Hobbies & Interests
+
+- **Sports**: Badminton
+- **Gaming**: MOBA, Fighting games, ARPG
+- **Research**: Mythology and folklore studies
+- **Music**: Singing
+
 <hr/>
 <h2 class="mt-4 mb-3">Life snapshots</h2>
 
