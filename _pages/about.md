@@ -27,6 +27,8 @@ latest_posts:
   limit: 3
 ---
 
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
 Hi, I’m **Jayce Xu** (徐晟杰). I am a third-year Software Engineering student at Huazhong University of Science and Technology and an algorithm intern at Baidu NLP (Helix Team). My research focuses on **AI for Science and Medicine**, especially:
 
 - AI drug discovery
@@ -184,3 +186,5 @@ document.addEventListener('keydown', function(event) {
   cursor: pointer;
 }
 </style>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
