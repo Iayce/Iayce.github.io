@@ -27,15 +27,13 @@ latest_posts:
   limit: 3
 ---
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-
-Hi, I’m **Jayce Xu** (徐晟杰). I am a third-year Software Engineering student at Huazhong University of Science and Technology and an algorithm intern at Baidu NLP (Helix Team). My research focuses on **AI for Science and Medicine**, especially:
+Hi, I'm **Jayce Xu** (徐晟杰). I am a **third-year undergraduate** in Software Engineering at Huazhong University of Science and Technology, currently working as an algorithm intern at Baidu NLP (Helix Team). Despite being an undergraduate, I have been actively engaged in **AI for Science and Medicine** research, focusing on:
 
 - AI drug discovery
 - Multi-agent systems
 - Graph neural networks
 
-I’m also interested in **model security** (adversarial attacks, fake detection). I am actively seeking **PhD opportunities**.
+I'm also interested in **model security** (adversarial attacks, fake detection). As an undergraduate researcher, I am actively seeking **PhD opportunities** to further advance my research career.
 
 Contact:
 - Email: `shengjiexu99@gmail.com` / `u202317280@hust.edu.cn`
