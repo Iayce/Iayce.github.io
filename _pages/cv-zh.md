@@ -17,9 +17,9 @@ toc:
   <h3>基本信息</h3>
   <div class="row">
     <div class="col-md-6">
-      <p><strong>姓名：</strong>徐晟杰 (Jayce Xu)</p>
-      <p><strong>💬 微信/手机：</strong>13207091169</p>
-      <p><strong>📮 邮箱：</strong>shengjiexu99@gmail.com<br>u202317280@hust.edu.cn</p>
+  <p><strong>姓名：</strong>徐晟杰 (Jayce Xu)</p>
+  <p><strong>💬 微信/手机：</strong>13207091169</p>
+  <p><strong>📮 邮箱：</strong>shengjiexu99@gmail.com<br>u202317280@hust.edu.cn</p>
     </div>
     <div class="col-md-6">
       <p><strong>🎂 生日：</strong>2005.4.13</p>
@@ -29,7 +29,7 @@ toc:
   <div class="row">
     <div class="col-12">
       <p><strong>🧑🏻‍💻 专业方向：</strong>AI4Science和医学，多智能体，图神经网络和模型安全</p>
-      <p><strong>爱好：</strong>民俗研究 羽毛球 传统武术 游戏动漫 唱歌</p>
+  <p><strong>爱好：</strong>民俗研究 羽毛球 传统武术 游戏动漫 唱歌</p>
     </div>
   </div>
 </div>
@@ -57,13 +57,11 @@ toc:
 <div class="cv-section">
   <h3>🏆 获奖经历</h3>
   <ul>
-    <li><strong>中国机器人及人工智能大赛国家级三等奖</strong> (2025.8)</li>
+    <li><strong>国家奖学金</strong> (2024-2025学年)</li>
+    <li><strong>第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛 特等奖</strong>（OmniMedical项目，赛题：基于人工智能的药物与先进药物递送智能体构建） (2025.11)</li>
     <li><strong>求是杯 全国大学生课外学术科技作品竞赛校赛一等奖</strong> (个人项目) (2025.3)</li>
     <li><strong>第六届全球校园人工智能算法精英大赛 全国二等奖</strong> (队长) (2024.12)</li>
     <li><strong>第十九届"挑战杯"竞赛2024年度"揭榜挂帅"专项赛 全国一等奖</strong> (负责人) (2024.11)</li>
-    <li><strong>第十届"广东工研院杯"创新创业大赛暨中国国际大学生创新大赛(2024)校赛决赛 优秀奖</strong> (队长) (2024.6)</li>
-    <li><strong>华中科技大学第十三届"求是杯"大学生创业计划竞赛 优秀奖</strong> (队长) (2024.5)</li>
-    <li><strong>华中科技大学第二届"科技强国"大学生创意作品竞赛 铜奖</strong> (队长) (2024.5)</li>
     <li><strong>华中科技大学第十届手机应用设计大赛 程序组 冠军</strong> (2024.3)</li>
     <li><strong>CCF BDCI 文心一言插件开发赛道全国三等奖</strong> (2023.11)</li>
   </ul>
@@ -105,16 +103,16 @@ toc:
         <td>学生负责人</td>
         <td>2025.3-至今</td>
       </tr>
-        <tr>
-          <td>中科院广州生物医药与健康研究院</td>
-          <td>助理研究员</td>
-          <td>2025.3-2025.8</td>
-        </tr>
+      <tr>
+        <td>中科院广州生物医药与健康研究院</td>
+        <td>助理研究员</td>
+        <td>2025.3-2025.8</td>
+      </tr>
         <tr>
           <td>百度飞桨螺旋桨团队</td>
           <td>算法实习生</td>
           <td>2025.6-至今</td>
-        </tr>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -139,6 +137,7 @@ toc:
   <h3>📋 主要项目</h3>
   <p>详细的项目经历请查看 <a href="/projects/">项目页面</a>，包括：</p>
   <ul>
+  <li><strong>OmniMedical</strong> - 端到端多智能体可解释性小分子药物发掘与智能递送平台</li>
     <li><strong>DumplingGNN</strong> - 混合图神经网络用于ADC药物载荷活性预测</li>
     <li><strong>空间转录组学研究</strong> - 多模态数据整合与药物响应预测</li>
     <li><strong>药物再利用研究</strong> - AI驱动的计算药物再利用框架</li>

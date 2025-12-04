@@ -58,13 +58,11 @@ toc:
 <div class="cv-section">
   <h3>🏆 Awards & Honors</h3>
   <ul>
-    <li><strong>China Robotics & AI Competition - National Third Prize</strong> (2025.8)</li>
+    <li><strong>National Scholarship of China</strong> (2024–2025 academic year)</li>
+    <li><strong>19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition "AI+" Special Track - Special Prize</strong> (OmniMedical project; topic: AI-based intelligent agent construction for drugs and advanced drug delivery) (2025.11)</li>
     <li><strong>Qiushi Cup Undergraduate Research Competition - University First Prize</strong> (Individual Project) (2025.3)</li>
     <li><strong>6th Global Campus AI Algorithm Elite Challenge - National Second Prize</strong> (Team Leader) (2024.12)</li>
     <li><strong>19th Challenge Cup "List to Solve" Special Track - National First Prize</strong> (Project Lead) (2024.11)</li>
-    <li><strong>10th Guangdong Industrial Research Institute Cup Innovation & Entrepreneurship Competition - Excellence Award</strong> (Team Leader) (2024.6)</li>
-    <li><strong>HUST 13th "Qiushi Cup" Entrepreneurship Plan - Excellence Award</strong> (Team Leader) (2024.5)</li>
-    <li><strong>HUST 2nd "Science and Technology for a Powerful Nation" Creative Works - Bronze Award</strong> (Team Leader) (2024.5)</li>
     <li><strong>HUST 10th Mobile App Design Contest - Programming Group Champion</strong> (2024.3)</li>
     <li><strong>CCF BDCI Ernie Bot Plugin Track - National Third Prize</strong> (2023.11)</li>
   </ul>
@@ -140,6 +138,7 @@ toc:
   <h3>📋 Key Projects</h3>
   <p>For detailed project experience, please visit the <a href="/projects/">Projects page</a>, including:</p>
   <ul>
+    <li><strong>OmniMedical</strong> - End-to-end multi-agent explainable platform for small-molecule drug discovery and intelligent delivery</li>
     <li><strong>DumplingGNN</strong> - Hybrid Graph Neural Network for ADC Drug Payload Activity Prediction</li>
     <li><strong>Spatial Transcriptomics Research</strong> - Multi-modal Data Integration and Drug Response Prediction</li>
     <li><strong>Drug Repurposing Research</strong> - AI-driven Computational Drug Repurposing Frameworks</li>

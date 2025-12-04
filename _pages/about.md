@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm **Jayce Xu** (徐晟杰). I am a **third-year undergraduate** in Software Engineering at Huazhong University of Science and Technology, currently working as an algorithm intern at Baidu NLP (Helix Team). Despite being an undergraduate, I have been actively engaged in **AI for Science and Medicine** research, focusing on:
+Hi, I'm **Jayce Xu** (徐晟杰). I am a **third-year undergraduate** in Software Engineering at Huazhong University of Science and Technology, currently working as an algorithm intern at Baidu NLP (Helix Team). I was awarded the **National Scholarship of China (2024–2025)** based on comprehensive academic performance and research output. Despite being an undergraduate, I have been actively engaged in **AI for Science and Medicine** research, focusing on:
 
 - AI drug discovery
 - Multi-agent systems
@@ -43,16 +43,16 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 
 ## Publications
 
-- **Xu, S.**; Xie, L.; Dai, R.; Lyu, Z. **Dumpling GNN: Hybrid GNN Enables Better ADC Payload Activity Prediction Based on the Chemical Structure.** Int. J. Mol. Sci. 2025, 26, 4859. https://doi.org/10.3390/ijms26104859  
+-  **Dumpling GNN: Hybrid GNN Enables Better ADC Payload Activity Prediction Based on the Chemical Structure.** **Xu, S.**; Xie, L.; Dai, R.; Lyu, Z.Int. J. Mol. Sci. 2025, 26, 4859. https://doi.org/10.3390/ijms26104859  
   *First author & corresponding author*
-- Poster: **FastJSMA: Accelerating Jacobian-based Saliency Map Attacks through Gradient Decoupling** — Zhenghao Gao, **Shengjie Xu**, Zijing Li, Meixi Chen, Chaojian Yu, Yuanjie Shao, Changxin Gao. ICCV 2025, Exhibit Hall I #133  
+- **FastJSMA: Accelerating Jacobian-based Saliency Map Attacks through Gradient Decoupling** — Zhenghao Gao, **Shengjie Xu**, Zijing Li, Meixi Chen, Chaojian Yu, Yuanjie Shao, Changxin Gao. ICCV 2025, Exhibit Hall I #133  
   *Co-first author*
 
 ## Work Experience
 
 - **VLR Lab**, Huazhong University of Science and Technology — Group Lead, **Drug Repurposing** (Dec 2023–Jun 2025)
   Research on **applying multi‑agent systems and graph neural networks to drug repurposing**
-- Hangzhou Zhi‑Driven Education Technology — Deputy Director, Big Data Algorithms (Aug 2024–Present)
+- Hangzhou Intelligence‑Driven Education Technology — Deputy Director, Big Data Algorithms (Aug 2024–Present)
   **Application‑oriented knowledge graphs and agent systems for education**
 - **Guangzhou Institutes of Biomedicine and Health, CAS** — Assistant Researcher (Mar 2025–Aug 2025)
   AI for **spatial transcriptomics and drug sensitivity analysis**
@@ -64,13 +64,10 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 ## Competitions
 
 <small>
-- China Robotics & AI Competition — National Third Prize (Aug 2025)
+- 19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition "AI+" Special Track — **Special Prize** (OmniMedical project; topic: AI-based intelligent agent construction for drugs and advanced drug delivery)
 - Qiushi Cup Undergraduate Research Competition — University First Prize, individual project (Mar 2025)
 - Global Campus AI Algorithm Elite Challenge — National Second Prize, team leader (Dec 2024)
 - Challenge Cup 2024 “List to Solve” Special Track — National First Prize, project lead (Nov 2024)
-- GDRI Cup Innovation & Entrepreneurship / China International College Students’ Innovation Competition (2024) — University Finals, Excellence Award, team leader (Jun 2024)
-- HUST 13th “Qiushi Cup” Entrepreneurship Plan — Excellence Award, team leader (May 2024)
-- HUST “Science and Technology for a Powerful Nation” Creative Works — Bronze Award, team leader (May 2024)
 - HUST 10th Mobile App Design Contest — Programming Group Champion (Mar 2024)
 - CCF BDCI Ernie Bot Plugin Track — National Third Prize (Nov 2023)
 </small>
