@@ -45,7 +45,7 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 
 -  **Dumpling GNN: Hybrid GNN Enables Better ADC Payload Activity Prediction Based on the Chemical Structure.** **Xu, S.**; Xie, L.; Dai, R.; Lyu, Z.Int. J. Mol. Sci. 2025, 26, 4859. https://doi.org/10.3390/ijms26104859  
   *First author & corresponding author*
-- **FastJSMA: Accelerating Jacobian-based Saliency Map Attacks through Gradient Decoupling** — Zhenghao Gao, **Shengjie Xu**, Zijing Li, Meixi Chen, Chaojian Yu, Yuanjie Shao, Changxin Gao. ICCV 2025, Exhibit Hall I #133  
+- **FastJSMA: Accelerating Jacobian-based Saliency Map Attacks through Gradient Decoupling** — Zhenghao Gao, **Shengjie Xu**, Zijing Li, Meixi Chen, Chaojian Yu, Yuanjie Shao, Changxin Gao. Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025, pp. 1506-1515. [https://openaccess.thecvf.com/content/ICCV2025/html/Gao_FastJSMA_Accelerating_Jacobian-based_Saliency_Map_Attacks_through_Gradient_Decoupling_ICCV_2025_paper.html](https://openaccess.thecvf.com/content/ICCV2025/html/Gao_FastJSMA_Accelerating_Jacobian-based_Saliency_Map_Attacks_through_Gradient_Decoupling_ICCV_2025_paper.html)  
   *Co-first author*
 
 ## Work Experience
