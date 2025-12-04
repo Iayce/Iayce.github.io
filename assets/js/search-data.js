@@ -114,6 +114,11 @@ ninja.data = [{
           description: "Large-scale medical AI model development and commercialization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/medical-ai/";
+            },},{id: "projects-omnimedical-multi-agent-explainable-drug-discovery-platform",
+          title: 'OmniMedical: Multi-Agent Explainable Drug Discovery Platform',
+          description: "An end-to-end, multi-agent and explainable AI platform for small-molecule drug discovery and intelligent delivery",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/omnimedical/";
             },},{id: "projects-spatial-transcriptomics-amp-drug-sensitivity-research",
           title: 'Spatial Transcriptomics &amp;amp; Drug Sensitivity Research',
           description: "Multi-modal spatial transcriptomics and histology image registration for drug response prediction",
