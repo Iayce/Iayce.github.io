@@ -112,10 +112,10 @@ If you are a professor or collaborator working on AI for science/medicine, secur
       <img src="/assets/img/photos/chuangyeluyan2.jpg" class="d-block w-100 carousel-image" alt="Talk 2" style="height:400px;object-fit:contain;background-color:#f8f9fa;cursor:pointer;" onclick="openImageModal(this)">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/photos/ArtisticPhotos3.jpg" class="d-block w-100 carousel-image" alt="Artistic 3" style="height:400px;object-fit:contain;background-color:#f8f9fa;cursor:pointer;" onclick="openImageModal(this)">
+      <img src="/assets/img/photos/canhui.jpg" class="d-block w-100 carousel-image" alt="Conference — Shengjie Xu" style="height:400px;object-fit:contain;background-color:#f8f9fa;cursor:pointer;" onclick="openImageModal(this)">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/photos/ArtisticPhotos2.jpg" class="d-block w-100 carousel-image" alt="Artistic 2" style="height:400px;object-fit:contain;background-color:#f8f9fa;cursor:pointer;" onclick="openImageModal(this)">
+      <img src="/assets/img/photos/biaozhang.jpg" class="d-block w-100 carousel-image" alt="HUST 2025 student commendation ceremony" style="height:400px;object-fit:contain;background-color:#f8f9fa;cursor:pointer;" onclick="openImageModal(this)">
     </div>
     <div class="carousel-item">
       <img src="/assets/img/photos/xiaoyouhui.jpg" class="d-block w-100 carousel-image" alt="Alumni event" style="height:400px;object-fit:contain;background-color:#f8f9fa;cursor:pointer;" onclick="openImageModal(this)">
