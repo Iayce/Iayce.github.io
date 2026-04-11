@@ -20,10 +20,12 @@ Developed a multi-dimensional optimization framework for adversarial attacks, in
 - **Performance**: Achieved 81x speedup on CIFAR-100 while maintaining 98%+ success rate
 - **Scalability**: First method to support ImageNet large-scale attacks, breaking memory limitations
 
-### SEASON (Cross-Architecture Transfer Enhancement)
-- **Hybrid Noise Strategy**: Combined gradient perturbation with salt-pepper noise
-- **Transfer Improvement**: Enhanced cross-architecture transfer success rate by 3.6%
-- **Visual Quality**: Optimized perturbation focus by 37% while maintaining industry-leading visual quality
+### Season (Spectrum-Aware Orthogonal Gradient Refinement)
+- **Spectrum-aware decoupling**: Gaussian-smoothed low-frequency vs. high-frequency surrogate-gradient branches for structure vs. texture
+- **Low-saliency guidance**: Precomputed saliency on the clean image; steers high-frequency updates toward background while preserving foreground shape cues for ViT-like targets
+- **Orthogonal refinement**: Projects accumulated high-frequency perturbation onto the orthogonal complement of the low-frequency structural component to reduce branch interference
+- **Results**: Training-free wrapper over standard transfer attacks; on ImageNet (ResNet-50 surrogate, unified protocol) average transfer success gains of **+6.6** percentage points (up to **+16.0**) across CNN, ViT, and MLP targets vs.\ strong baselines
+- **Venue**: **ICME 2026** (IEEE International Conference on Multimedia and Expo, **CCF-B**), accepted **March 17, 2026**; **Shengjie Xu**, corresponding author — [publication entry](/publications/#wang2026season)
 
 ### Watertox (Lightweight Universal Attack Framework)
 - **Two-stage FGSM**: Implemented multi-model ensemble with gradient voting
@@ -39,8 +41,9 @@ Developed a multi-dimensional optimization framework for adversarial attacks, in
 - **Dataset Coverage**: Comprehensive evaluation on CIFAR, ImageNet, and other major datasets
 
 ### Research Impact
-- **ICCV 2025**: Three first-author papers submitted, with FastJSMA accepted (434→544 score)
-- **Publications**: Watertox paper published in arXiv (2024) - [View Publication](/publications/#gao2024watertoxartsimplicityuniversal)
+- **ICCV 2025**: FastJSMA accepted (co-first author); presented in Honolulu
+- **ICME 2026**: Season accepted March 17, 2026 (**CCF-B**); corresponding author — [View Publication](/publications/#wang2026season)
+- **Publications**: Watertox on arXiv (2024) — [View Publication](/publications/#gao2024watertoxartsimplicityuniversal)
 - **Industry Application**: Methods applicable to model security and robustness testing
 
 ## Key Contributions
@@ -51,9 +54,9 @@ Developed a multi-dimensional optimization framework for adversarial attacks, in
 - **Comprehensive Testing**: Covered multiple datasets and model architectures
 
 ### Research Output
-- **Publications**: Three ICCV 2025 submissions as co-first author
-- **Performance**: Achieved state-of-the-art results in attack efficiency and transferability
-- **Practical Impact**: Developed methods with real-world security applications
+- **Publications**: FastJSMA at ICCV 2025 (co-first author); Season at ICME 2026 (corresponding author); Watertox preprint (2024)
+- **Performance**: Strong results on attack efficiency (FastJSMA) and cross-architecture transfer (Season)
+- **Practical Impact**: Methods suitable for security evaluation of heterogeneous vision systems
 
 ---
 
