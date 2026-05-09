@@ -58,8 +58,9 @@ toc:
 <div class="cv-section">
   <h3>🏆 Awards & Honors</h3>
   <ul>
+    <li><strong>HUST Youth May 4th Medal</strong> (student category; 10 recipients total: 8 postgraduates + 2 undergraduates; Jayce was the junior-year undergraduate recipient) (2026.05)</li>
     <li><strong>National Scholarship of China</strong> (2024–2025 academic year)</li>
-    <li><strong>19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition "AI+" Special Track - Special Prize</strong> (OmniMedical project; topic: AI-based intelligent agent construction for drugs and advanced drug delivery) (2025.11)</li>
+    <li><strong>19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition "AI+" Special Track - Special Prize</strong> (OmnMedical project; topic: AI-based intelligent agent construction for drugs and advanced drug delivery) (2025.11)</li>
     <li><strong>Qiushi Cup Undergraduate Research Competition - University First Prize</strong> (Individual Project) (2025.3)</li>
     <li><strong>6th Global Campus AI Algorithm Elite Challenge - National Second Prize</strong> (Team Leader) (2024.12)</li>
     <li><strong>19th Challenge Cup "List to Solve" Special Track - National First Prize</strong> (Project Lead) (2024.11)</li>
@@ -97,7 +98,7 @@ toc:
       <tr>
         <td>Hangzhou Zhi-Driven Education Technology</td>
         <td>Deputy Director, Big Data Algorithms</td>
-        <td>2024.8-Present</td>
+        <td>2024.8-2025.3</td>
       </tr>
       <tr>
         <td>Soft Innovation Future</td>
@@ -112,7 +113,7 @@ toc:
         <tr>
           <td>Baidu PaddlePaddle (Helix Team)</td>
           <td>Algorithm Intern</td>
-          <td>2025.6-Present</td>
+          <td>2025.6-2026.1</td>
         </tr>
     </tbody>
   </table>
@@ -128,7 +129,7 @@ toc:
   <h4>Software Skills</h4>
   <ul>
     <li><strong>Programming Languages:</strong> Python, C/C++, R, Java</li>
-    <li><strong>AI Frameworks:</strong> PyTorch, TensorFlow, OpenAI, LangChain</li>
+    <li><strong>AI Frameworks:</strong> PyTorch, TensorFlow, LangChain, LlamaIndex</li>
     <li><strong>Bioinformatics:</strong> RDKit, PyMOL, OpenBabel</li>
     <li><strong>Office Software:</strong> Proficient in Feishu Office</li>
   </ul>

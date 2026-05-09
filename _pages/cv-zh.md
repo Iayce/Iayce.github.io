@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 permalink: /cv-zh/
 title: 个人简历
@@ -96,7 +96,7 @@ toc:
       <tr>
         <td>杭州智驱动教育科技有限公司</td>
         <td>大数据算法中心副总监</td>
-        <td>2024.8-至今</td>
+        <td>2024.8-2025.3</td>
       </tr>
       <tr>
         <td>软创未来</td>
@@ -111,7 +111,7 @@ toc:
         <tr>
           <td>百度飞桨螺旋桨团队</td>
           <td>算法实习生</td>
-          <td>2025.6-至今</td>
+          <td>2025.6-2026.1</td>
       </tr>
     </tbody>
   </table>
@@ -127,7 +127,7 @@ toc:
   <h4>软件技能</h4>
   <ul>
     <li><strong>编程语言：</strong>Python, C/C++, R, Java</li>
-    <li><strong>AI框架：</strong>PyTorch, TensorFlow, OpenAI, LangChain等</li>
+    <li><strong>AI框架：</strong>PyTorch, TensorFlow, LangChain, LlamaIndex等</li>
     <li><strong>生物信息学：</strong>RDKit, PyMOL, OpenBabel等</li>
     <li><strong>办公软件：</strong>熟练使用飞书办公</li>
   </ul>

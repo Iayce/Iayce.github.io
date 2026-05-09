@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm **Jayce Xu** (徐晟杰). I am a **third-year undergraduate** in Software Engineering at Huazhong University of Science and Technology, currently working as an algorithm intern at Baidu NLP (Helix Team). I was awarded the **National Scholarship of China (2024–2025)** based on comprehensive academic performance and research output. Despite being an undergraduate, I have been actively engaged in **AI for Science and Medicine** research, focusing on:
+Hi, I'm **Jayce Xu** (徐晟杰). I am a **third-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. I was awarded the **National Scholarship of China (2024–2025)** and the **HUST Youth May 4th Medal (2026)** based on comprehensive academic performance and research output. Despite being an undergraduate, I have been actively engaged in **AI for Science and Medicine** research, focusing on:
 
 - AI drug discovery
 - Multi-agent systems
@@ -45,28 +45,31 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 
 -  **Dumpling GNN: Hybrid GNN Enables Better ADC Payload Activity Prediction Based on the Chemical Structure.** **Xu, S.**; Xie, L.; Dai, R.; Lyu, Z.Int. J. Mol. Sci. 2025, 26, 4859. https://doi.org/10.3390/ijms26104859  
   *First author & corresponding author*
-- **FastJSMA: Accelerating Jacobian-based Saliency Map Attacks through Gradient Decoupling** — Zhenghao Gao, **Shengjie Xu**, Zijing Li, Meixi Chen, Chaojian Yu, Yuanjie Shao, Changxin Gao. Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025, pp. 1506-1515. [https://openaccess.thecvf.com/content/ICCV2025/html/Gao_FastJSMA_Accelerating_Jacobian-based_Saliency_Map_Attacks_through_Gradient_Decoupling_ICCV_2025_paper.html](https://openaccess.thecvf.com/content/ICCV2025/html/Gao_FastJSMA_Accelerating_Jacobian-based_Saliency_Map_Attacks_through_Gradient_Decoupling_ICCV_2025_paper.html)  
+- **FastJSMA: Accelerating Jacobian-based Saliency Map Attacks through Gradient Decoupling** — Zhenghao Gao, **Shengjie Xu**, Zijing Li, Meixi Chen, Chaojian Yu, Yuanjie Shao, Changxin Gao. Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025, pp. 1506-1515. [ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/html/Gao_FastJSMA_Accelerating_Jacobian-based_Saliency_Map_Attacks_through_Gradient_Decoupling_ICCV_2025_paper.html)  
   *Co-first author*
 - **Season: Spectrum-Aware Orthogonal Gradient Refinement for Transfer-Based Adversarial Attacks** — Tianyi Wang, Zhenghao Gao, **Shengjie Xu**. Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), 2026. (accepted March 17, 2026; CCF-B) [Publications page](/publications/#wang2026season)  
   *Corresponding author*
+- **End-to-End Reverse Screening Identifies Protein Targets of Small Molecules Using HelixFold3** — **Shengjie Xu**, Xianbin Ye, Mengran Zhu, Xiaonan Zhang, Shanzhuo Zhang, Xiaomin Fang. arXiv:2601.13693, 2026. (submitted to *IEEE JBHI*) [arXiv](https://arxiv.org/abs/2601.13693)  
+  *First author*
 
 ## Work Experience
 
 - **VLR Lab**, Huazhong University of Science and Technology — Group Lead, **Drug Repurposing** (Dec 2023–Jun 2025)
   Research on **applying multi‑agent systems and graph neural networks to drug repurposing**
-- Hangzhou Intelligence‑Driven Education Technology — Deputy Director, Big Data Algorithms (Aug 2024–Present)
+- Hangzhou Intelligence‑Driven Education Technology — Deputy Director, Big Data Algorithms (Aug 2024–Mar 2025)
   **Application‑oriented knowledge graphs and agent systems for education**
 - **Guangzhou Institutes of Biomedicine and Health, CAS** — Assistant Researcher (Mar 2025–Aug 2025)
   AI for **spatial transcriptomics and drug sensitivity analysis**
 - Huazhong University of Science and Technology — **Teaching Assistant**, Data Intelligence Analysis & Visualization (Mar 2025–Aug 2025)
   Teaching assistance for data intelligence analysis and visualization courses, leading hands-on practice sessions and guiding students in data mining competitions
-- **Baidu PaddlePaddle (Helix)** — Algorithm Researcher (Jun 2025–Present)
-  **AI‑assisted drug screening and related research**
+- **Baidu PaddlePaddle (Helix)** — Algorithm Intern (Jun 2025–Jan 2026)
+  **AI‑assisted drug screening**; co-authored HelixFold3 reverse screening paper (arXiv:2601.13693, submitted to *JBHI*)
 
 ## Competitions
 
 <small>
-- 19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition "AI+" Special Track — **Special Prize** (OmniMedical project; topic: AI-based intelligent agent construction for drugs and advanced drug delivery)
+- **HUST Youth May 4th Medal** (student category; 10 recipients: 8 postgraduates + 2 undergraduates; Jayce was one of two undergraduates) (May 2026)
+- 19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition "AI+" Special Track — **Special Prize** (OmnMedical project; topic: AI-based intelligent agent construction for drugs and advanced drug delivery)
 - Qiushi Cup Undergraduate Research Competition — University First Prize, individual project (Mar 2025)
 - Global Campus AI Algorithm Elite Challenge — National Second Prize, team leader (Dec 2024)
 - Challenge Cup 2024 “List to Solve” Special Track — National First Prize, project lead (Nov 2024)
