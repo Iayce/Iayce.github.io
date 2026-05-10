@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm **Jayce Xu** (徐晟杰). I am a **third-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. I was awarded the **National Scholarship of China (2024–2025)** and the **HUST Youth May 4th Medal (2026)** based on comprehensive academic performance and research output. Despite being an undergraduate, I have been actively engaged in **AI for Science and Medicine** research, focusing on:
+Hi, I'm **Jayce Xu** (徐晟杰). I am a **third-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. I previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China (2024–2025)** and the **HUST Youth May 4th Medal (2026)** based on comprehensive academic performance and research output. Despite being an undergraduate, I have been actively engaged in **AI for Science and Medicine** research, focusing on:
 
 - AI drug discovery
 - Multi-agent systems
