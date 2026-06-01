@@ -19,10 +19,12 @@ I am the founder of the **OmniMatrix** team, focusing on innovative solutions in
 
 ### Products
 
-#### LightningRead
-**Website**: [https://lightingread.cn/](https://lightingread.cn/)
+#### LightRead (*lr*) — AI for research
+**Legal entity**: Wuhan Lianyi Xiaoying Technology Co., Ltd. (武汉涟漪效应科技有限责任公司) · **Funding**: RMB 500k raised · **Valuation**: RMB 5M  
+**Website**: [https://lightingread.cn/](https://lightingread.cn/)  
+**Role**: After the 2026 financing, Jayce moved from **CEO** to **strategic advisor**, focusing on product and technical direction rather than day-to-day operations.
 
-LightningRead is our flagship product, designed to revolutionize reading and information processing through advanced AI technologies. The platform leverages cutting-edge natural language processing and machine learning to provide users with enhanced reading experiences and intelligent content analysis.
+LightRead targets **AI-assisted scientific research**: paper discovery, AI-aided reading, and smart reference / workflow support—aligned with the live product positioning on [lightingread.cn](https://lightingread.cn/). The stack combines modern NLP/ML with a workflow-oriented UX for researchers.
 
 <div class="row">
   <div class="col-sm-8">

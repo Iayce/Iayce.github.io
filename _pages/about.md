@@ -47,7 +47,7 @@ If you are a professor or collaborator working on AI for science/medicine, secur
   *First author & corresponding author*
 - **FastJSMA: Accelerating Jacobian-based Saliency Map Attacks through Gradient Decoupling** — Zhenghao Gao, **Shengjie Xu**, Zijing Li, Meixi Chen, Chaojian Yu, Yuanjie Shao, Changxin Gao. Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025, pp. 1506-1515. [ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/html/Gao_FastJSMA_Accelerating_Jacobian-based_Saliency_Map_Attacks_through_Gradient_Decoupling_ICCV_2025_paper.html)  
   *Co-first author*
-- **Season: Spectrum-Aware Orthogonal Gradient Refinement for Transfer-Based Adversarial Attacks** — Tianyi Wang, Zhenghao Gao, **Shengjie Xu**. Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), 2026. (accepted March 17, 2026; CCF-B) [Publications page](/publications/#wang2026season)  
+- **Season: Spectrum-Aware Orthogonal Gradient Refinement for Transfer-Based Adversarial Attacks** — Tianyi Wang, Zhenghao Gao, **Shengjie Xu**. Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), 2026. (accepted March 17, 2026; CCF-B; **Spotlight presentation**) [Publications page](/publications/#wang2026season)  
   *Corresponding author*
 - **End-to-End Reverse Screening Identifies Protein Targets of Small Molecules Using HelixFold3** — **Shengjie Xu**, Xianbin Ye, Mengran Zhu, Xiaonan Zhang, Shanzhuo Zhang, Xiaomin Fang. arXiv:2601.13693, 2026. (submitted to *IEEE JBHI*) [arXiv](https://arxiv.org/abs/2601.13693)  
   *First author*

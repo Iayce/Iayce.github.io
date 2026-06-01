@@ -25,7 +25,7 @@ Developed a multi-dimensional optimization framework for adversarial attacks, in
 - **Low-saliency guidance**: Precomputed saliency on the clean image; steers high-frequency updates toward background while preserving foreground shape cues for ViT-like targets
 - **Orthogonal refinement**: Projects accumulated high-frequency perturbation onto the orthogonal complement of the low-frequency structural component to reduce branch interference
 - **Results**: Training-free wrapper over standard transfer attacks; on ImageNet (ResNet-50 surrogate, unified protocol) average transfer success gains of **+6.6** percentage points (up to **+16.0**) across CNN, ViT, and MLP targets vs.\ strong baselines
-- **Venue**: **ICME 2026** (IEEE International Conference on Multimedia and Expo, **CCF-B**), accepted **March 17, 2026**; **Shengjie Xu**, corresponding author — [publication entry](/publications/#wang2026season)
+- **Venue**: **ICME 2026** (IEEE International Conference on Multimedia and Expo, **CCF-B**), accepted **March 17, 2026**, **Spotlight presentation**; **Shengjie Xu**, corresponding author — [publication entry](/publications/#wang2026season)
 
 ### Watertox (Lightweight Universal Attack Framework)
 - **Two-stage FGSM**: Implemented multi-model ensemble with gradient voting
@@ -42,7 +42,7 @@ Developed a multi-dimensional optimization framework for adversarial attacks, in
 
 ### Research Impact
 - **ICCV 2025**: FastJSMA accepted (co-first author); presented in Honolulu
-- **ICME 2026**: Season accepted March 17, 2026 (**CCF-B**); corresponding author — [View Publication](/publications/#wang2026season)
+- **ICME 2026**: Season accepted March 17, 2026 (**CCF-B**), **Spotlight presentation**; corresponding author — [View Publication](/publications/#wang2026season)
 - **Publications**: Watertox on arXiv (2024) — [View Publication](/publications/#gao2024watertoxartsimplicityuniversal)
 - **Industry Application**: Methods applicable to model security and robustness testing
 
@@ -54,7 +54,7 @@ Developed a multi-dimensional optimization framework for adversarial attacks, in
 - **Comprehensive Testing**: Covered multiple datasets and model architectures
 
 ### Research Output
-- **Publications**: FastJSMA at ICCV 2025 (co-first author); Season at ICME 2026 (corresponding author); Watertox preprint (2024)
+- **Publications**: FastJSMA at ICCV 2025 (co-first author); Season at ICME 2026 (corresponding author, Spotlight); Watertox preprint (2024)
 - **Performance**: Strong results on attack efficiency (FastJSMA) and cross-architecture transfer (Season)
 - **Practical Impact**: Methods suitable for security evaluation of heterogeneous vision systems
 
