@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /cv-zh/
 title: 个人简历
