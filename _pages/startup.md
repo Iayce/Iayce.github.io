@@ -20,7 +20,7 @@ I am the founder of the **OmniMatrix** team, focusing on innovative solutions in
 ### Products
 
 #### LightRead (*lr*) — AI for research
-**Legal entity**: Wuhan Lianyi Xiaoying Technology Co., Ltd. (武汉涟漪效应科技有限责任公司) · **Funding**: RMB 500k raised · **Valuation**: RMB 5M  
+**Legal entity**: Wuhan Ripple Effect Technology Co., Ltd. (武汉涟漪效应科技有限责任公司) · **Funding**: RMB 500k raised · **Valuation**: RMB 5M  
 **Website**: [https://lightingread.cn/](https://lightingread.cn/)  
 **Role**: After the 2026 financing, Jayce moved from **CEO** to **strategic advisor**, focusing on product and technical direction rather than day-to-day operations.
 

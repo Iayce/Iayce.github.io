@@ -79,6 +79,11 @@ toc:
     </thead>
     <tbody>
       <tr>
+        <td>百图生科（BioMap）</td>
+        <td>基础算法部 · 抗体设计组 · 算法实习生</td>
+        <td>2026.6–至今</td>
+      </tr>
+      <tr>
         <td>Datawhale团队</td>
         <td>AI夏令营宣传大使</td>
         <td>2024.6-2024.9</td>

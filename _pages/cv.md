@@ -81,6 +81,11 @@ toc:
     </thead>
     <tbody>
       <tr>
+        <td>BioMap (百图生科)</td>
+        <td>Algorithm Intern, Antibody Design Group, Foundational Algorithms Dept.</td>
+        <td>2026.6–Present</td>
+      </tr>
+      <tr>
         <td>Datawhale Team</td>
         <td>AI Summer Camp Ambassador</td>
         <td>2024.6-2024.9</td>

@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm **Jayce Xu** (徐晟杰). I am a **third-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. I previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China (2024–2025)** and the **HUST Youth May 4th Medal (2026)** based on comprehensive academic performance and research output. Despite being an undergraduate, I have been actively engaged in **AI for Science and Medicine** research, focusing on:
+Hi, I'm **Jayce Xu** (徐晟杰). I am a **third-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. I currently intern in the **Antibody Design Group, Foundational Algorithms Department at BioMap (百图生科)**, and previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China (2024–2025)** and the **HUST Youth May 4th Medal (2026)** based on comprehensive academic performance and research output. Despite being an undergraduate, I have been actively engaged in **AI for Science and Medicine** research, focusing on:
 
 - AI drug discovery
 - Multi-agent systems
@@ -49,11 +49,13 @@ If you are a professor or collaborator working on AI for science/medicine, secur
   *Co-first author*
 - **Season: Spectrum-Aware Orthogonal Gradient Refinement for Transfer-Based Adversarial Attacks** — Tianyi Wang, Zhenghao Gao, **Shengjie Xu**. Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), 2026. (accepted March 17, 2026; CCF-B; **Spotlight presentation**) [Publications page](/publications/#wang2026season)  
   *Corresponding author*
-- **End-to-End Reverse Screening Identifies Protein Targets of Small Molecules Using HelixFold3** — **Shengjie Xu**, Xianbin Ye, Mengran Zhu, Xiaonan Zhang, Shanzhuo Zhang, Xiaomin Fang. arXiv:2601.13693, 2026. (submitted to *IEEE JBHI*) [arXiv](https://arxiv.org/abs/2601.13693)  
+- **End-to-End Reverse Screening Identifies Protein Targets of Small Molecules Using HelixFold3** — **Shengjie Xu**, Xianbin Ye, Mengran Zhu, Xiaonan Zhang, Shanzhuo Zhang, Xiaomin Fang. arXiv:2601.13693, 2026. (accepted pending major revision at *IEEE JBHI*) [arXiv](https://arxiv.org/abs/2601.13693)  
   *First author*
 
 ## Work Experience
 
+- **BioMap (百图生科)** — Algorithm Intern, Antibody Design Group, Foundational Algorithms Dept. (Jun 2026–Present)
+  Antibody design algorithms in the Foundational Algorithms Department
 - **VLR Lab**, Huazhong University of Science and Technology — Group Lead, **Drug Repurposing** (Dec 2023–Jun 2025)
   Research on **applying multi‑agent systems and graph neural networks to drug repurposing**
 - Hangzhou Intelligence‑Driven Education Technology — Deputy Director, Big Data Algorithms (Aug 2024–Mar 2025)
@@ -63,7 +65,7 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 - Huazhong University of Science and Technology — **Teaching Assistant**, Data Intelligence Analysis & Visualization (Mar 2025–Aug 2025)
   Teaching assistance for data intelligence analysis and visualization courses, leading hands-on practice sessions and guiding students in data mining competitions
 - **Baidu PaddlePaddle (Helix)** — Algorithm Intern (Jun 2025–Jan 2026)
-  **AI‑assisted drug screening**; co-authored HelixFold3 reverse screening paper (arXiv:2601.13693, submitted to *JBHI*)
+  **AI‑assisted drug screening**; co-authored HelixFold3 reverse screening paper (arXiv:2601.13693, accepted pending major revision at *IEEE JBHI*)
 
 ## Competitions
 
