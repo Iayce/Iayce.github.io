@@ -47,7 +47,7 @@ toc:
     <tbody>
       <tr>
         <td><a href="https://birthlab.github.io/" target="_blank" rel="noopener"><img src="/assets/img/birth-lab-logo.png" alt="BIRTH Lab" style="width:140px;height:auto;"></a><br>清华大学 BIRTH Lab（脑影像实验室）</td>
-        <td>生物医学工程 直博（已接受待录取）<br>导师：田启源<br>生物医学成像与图像处理</td>
+        <td>生物医学工程，即将作为直博生加入<br>导师：田启源<br>生物医学成像与图像处理</td>
         <td>2027 秋入学</td>
       </tr>
       <tr>

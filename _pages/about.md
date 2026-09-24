@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Fourth-year Software Engineering student @ HUST · Incoming PhD, BIRTH Lab @ Tsinghua, Fall 2027
+subtitle: Fourth-year Software Engineering student @ HUST · Joining BIRTH Lab @ Tsinghua as a PhD student, Fall 2027
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>Jayce Xu</p>
     <p>徐晟杰</p>
     <p><a href="https://birthlab.github.io/" target="_blank" rel="noopener"><img src="/assets/img/birth-lab-logo.png" alt="BIRTH Lab" style="width:140px;height:auto;"></a></p>
-    <p>Incoming PhD, Fall 2027<br>Advisor: Qiyuan Tian</p>
+    <p>Joining as a PhD student, Fall 2027<br>Advisor: Qiyuan Tian</p>
 
 selected_papers: true
 social: true
@@ -29,7 +29,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm **Jayce Xu** (徐晟杰). I am a **fourth-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. I have accepted a direct-PhD offer and will join the **[BIRTH Lab](https://birthlab.github.io/)** (Lab for Brain Imaging Research at Tsinghua), School of Biomedical Engineering, Tsinghua University, in **Fall 2027**, advised by **Prof. Qiyuan Tian**, on **biomedical imaging and image processing**. I currently intern in the **Antibody Design Group, Foundational Algorithms Department at BioMap (百图生科)**, and previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China** for both the **2024–2025** and **2025–2026** academic years, and the **HUST Youth May 4th Medal (2026)**. I have been actively engaged in **AI for Science and Medicine** research, focusing on:
+Hi, I'm **Jayce Xu** (徐晟杰). I am a **fourth-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. In **Fall 2027**, I will join the **[BIRTH Lab](https://birthlab.github.io/)** (Lab for Brain Imaging Research at Tsinghua), School of Biomedical Engineering, Tsinghua University, as a **PhD student**, advised by **Prof. Qiyuan Tian**, working on **biomedical imaging and image processing**. I currently intern in the **Antibody Design Group, Foundational Algorithms Department at BioMap (百图生科)**, and previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China** for both the **2024–2025** and **2025–2026** academic years, and the **HUST Youth May 4th Medal (2026)**. I have been actively engaged in **AI for Science and Medicine** research, focusing on:
 
 - AI drug discovery
 - Multi-agent systems
