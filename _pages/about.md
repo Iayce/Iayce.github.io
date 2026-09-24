@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Third-year Software Engineering student @ HUST · AI4Science/Medical · Seeking PhD
+subtitle: Fourth-year Software Engineering student @ HUST · Incoming PhD, BIRTH Lab @ Tsinghua, Fall 2027
 
 profile:
   align: right
@@ -12,6 +12,8 @@ profile:
     <p>Huazhong University of Science and Technology</p>
     <p>Jayce Xu</p>
     <p>徐晟杰</p>
+    <p><a href="https://birthlab.github.io/" target="_blank" rel="noopener"><img src="/assets/img/birth-lab-logo.png" alt="BIRTH Lab" style="width:140px;height:auto;"></a></p>
+    <p>Incoming PhD, Fall 2027<br>Advisor: Qiyuan Tian</p>
 
 selected_papers: true
 social: true
@@ -27,19 +29,19 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm **Jayce Xu** (徐晟杰). I am a **third-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. I currently intern in the **Antibody Design Group, Foundational Algorithms Department at BioMap (百图生科)**, and previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China (2024–2025)** and the **HUST Youth May 4th Medal (2026)** based on comprehensive academic performance and research output. Despite being an undergraduate, I have been actively engaged in **AI for Science and Medicine** research, focusing on:
+Hi, I'm **Jayce Xu** (徐晟杰). I am a **fourth-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. I have accepted a direct-PhD offer and will join the **[BIRTH Lab](https://birthlab.github.io/)** (Lab for Brain Imaging Research at Tsinghua), School of Biomedical Engineering, Tsinghua University, in **Fall 2027**, advised by **Prof. Qiyuan Tian**, on **biomedical imaging and image processing**. I currently intern in the **Antibody Design Group, Foundational Algorithms Department at BioMap (百图生科)**, and previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China** for both the **2024–2025** and **2025–2026** academic years, and the **HUST Youth May 4th Medal (2026)**. I have been actively engaged in **AI for Science and Medicine** research, focusing on:
 
 - AI drug discovery
 - Multi-agent systems
 - Graph neural networks
 
-I'm also interested in **model security** (adversarial attacks, fake detection). As an undergraduate researcher, I am actively seeking **PhD opportunities** to further advance my research career.
+I'm also interested in **model security** (adversarial attacks, fake detection).
 
 Contact:
 - Email: `shengjiexu99@gmail.com` / `u202317280@hust.edu.cn`
 - WeChat: `Jayce_Xu99`
 
-If you are a professor or collaborator working on AI for science/medicine, security, or scalable agent systems, I would be deeply honored to connect and learn about potential opportunities.
+If you work on biomedical imaging, AI for science/medicine, or model security, I would be glad to connect.
 
 ## Publications
 
@@ -70,6 +72,8 @@ If you are a professor or collaborator working on AI for science/medicine, secur
 ## Competitions
 
 <small>
+- **National Scholarship of China** (2025–2026 academic year) (Sep 2026)
+- **HUST University Merit Student** (校三好学生, 2025–2026 academic year) (Sep 2026)
 - **HUST Youth May 4th Medal** (student category; 10 recipients: 8 postgraduates + 2 undergraduates; Jayce was one of two undergraduates) (May 2026)
 - 19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition "AI+" Special Track — **Special Prize** (OmnMedical project; topic: AI-based intelligent agent construction for drugs and advanced drug delivery)
 - Qiushi Cup Undergraduate Research Competition — University First Prize, individual project (Mar 2025)

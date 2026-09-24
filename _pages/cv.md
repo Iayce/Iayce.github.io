@@ -47,6 +47,11 @@ toc:
     </thead>
     <tbody>
       <tr>
+        <td><a href="https://birthlab.github.io/" target="_blank" rel="noopener"><img src="/assets/img/birth-lab-logo.png" alt="BIRTH Lab" style="width:140px;height:auto;"></a><br>Tsinghua University, BIRTH Lab</td>
+        <td>Biomedical Engineering, incoming direct Ph.D.<br>Advisor: Qiyuan Tian<br>Biomedical imaging and image processing</td>
+        <td>Fall 2027</td>
+      </tr>
+      <tr>
         <td>Huazhong University of Science and Technology</td>
         <td>Software Engineering, Bachelor's (In Progress)</td>
         <td>2023.09 - Present</td>
@@ -58,6 +63,8 @@ toc:
 <div class="cv-section">
   <h3>🏆 Awards & Honors</h3>
   <ul>
+    <li><strong>National Scholarship of China</strong> (2025–2026 academic year) (2026.09)</li>
+    <li><strong>HUST University Merit Student</strong> (校三好学生, 2025–2026 academic year) (2026.09)</li>
     <li><strong>HUST Youth May 4th Medal</strong> (student category; 10 recipients total: 8 postgraduates + 2 undergraduates; Jayce was the junior-year undergraduate recipient) (2026.05)</li>
     <li><strong>National Scholarship of China</strong> (2024–2025 academic year)</li>
     <li><strong>19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition "AI+" Special Track - Special Prize</strong> (OmnMedical project; topic: AI-based intelligent agent construction for drugs and advanced drug delivery) (2025.11)</li>

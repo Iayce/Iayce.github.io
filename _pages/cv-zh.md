@@ -46,6 +46,11 @@ toc:
     </thead>
     <tbody>
       <tr>
+        <td><a href="https://birthlab.github.io/" target="_blank" rel="noopener"><img src="/assets/img/birth-lab-logo.png" alt="BIRTH Lab" style="width:140px;height:auto;"></a><br>清华大学 BIRTH Lab（脑影像实验室）</td>
+        <td>生物医学工程 直博（已接受待录取）<br>导师：田启源<br>生物医学成像与图像处理</td>
+        <td>2027 秋入学</td>
+      </tr>
+      <tr>
         <td>华中科技大学</td>
         <td>软件工程 本科在读</td>
         <td>2023.09 - 至今</td>
@@ -57,6 +62,9 @@ toc:
 <div class="cv-section">
   <h3>🏆 获奖经历</h3>
   <ul>
+    <li><strong>国家奖学金</strong> (2025-2026学年) (2026.09)</li>
+    <li><strong>校三好学生</strong> (2025-2026学年) (2026.09)</li>
+    <li><strong>华中科技大学青年五四奖章（学生）</strong>（学生类十人：研究生八人、本科生两人，其中大三本科生获得者）(2026.05)</li>
     <li><strong>国家奖学金</strong> (2024-2025学年)</li>
     <li><strong>第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛 特等奖</strong>（OmniMedical项目，赛题：基于人工智能的药物与先进药物递送智能体构建） (2025.11)</li>
     <li><strong>求是杯 全国大学生课外学术科技作品竞赛校赛一等奖</strong> (个人项目) (2025.3)</li>

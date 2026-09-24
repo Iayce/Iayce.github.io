@@ -8,12 +8,12 @@ last_name: Xu
 contact_note: >
   Welcome to contact me via email (shengjiexu99@gmail.com / u202317280@hust.edu.cn) or WeChat (Jayce_Xu99)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Third-year Software Engineering student at Huazhong University of Science and Technology, focusing on AI4science and medical (AI drug discovery, multi-agent systems, and graph neural networks), with strong interest in model security (adversarial attacks, etc.), seeking PhD opportunities
+  Fourth-year Software Engineering student at Huazhong University of Science and Technology and incoming PhD student (Fall 2027) at the BIRTH Lab, School of Biomedical Engineering, Tsinghua University, advised by Qiyuan Tian. Research spans biomedical imaging and image processing, AI drug discovery, multi-agent systems, and graph neural networks, with interest in model security.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: AI drug discovery, graph neural networks, multi-agent systems, model security, AI4science, HUST, PhD opportunities # add your own keywords or leave empty
+keywords: biomedical imaging, BIRTH Lab, Tsinghua, AI drug discovery, graph neural networks, multi-agent systems, model security, AI4science, HUST # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
