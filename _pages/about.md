@@ -29,7 +29,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm **Jayce Xu** (徐晟杰). I am a **fourth-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. In **Fall 2027**, I will join the **[BIRTH Lab](https://birthlab.github.io/)** (Lab for Brain Imaging Research at Tsinghua), School of Biomedical Engineering, Tsinghua University, as a **PhD student**, advised by **Prof. Qiyuan Tian**, working on **biomedical imaging and image processing**. I currently intern in the **Antibody Design Group, Foundational Algorithms Department at BioMap (百图生科)**, and previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China** for both the **2024–2025** and **2025–2026** academic years, and the **HUST Youth May 4th Medal (2026)**. I have been actively engaged in **AI for Science and Medicine** research, focusing on:
+Hi, I'm **Jayce Xu** (徐晟杰). I am a **fourth-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. In **Fall 2027**, I will join the **[BIRTH Lab](https://birthlab.github.io/)** (Lab for Brain Imaging Research at Tsinghua), School of Biomedical Engineering, Tsinghua University, as a **PhD student**, advised by **Prof. Qiyuan Tian**. I currently intern in the **Antibody Design Group, Foundational Algorithms Department at BioMap (百图生科)**, and previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China** for both the **2024–2025** and **2025–2026** academic years, and the **HUST Youth May 4th Medal (2026)**. I have been actively engaged in **AI for Science and Medicine** research, focusing on:
 
 - AI drug discovery
 - Multi-agent systems
@@ -41,7 +41,7 @@ Contact:
 - Email: `shengjiexu99@gmail.com` / `u202317280@hust.edu.cn`
 - WeChat: `Jayce_Xu99`
 
-If you work on biomedical imaging, AI for science/medicine, or model security, I would be glad to connect.
+If you work on AI for science/medicine or model security, I would be glad to connect.
 
 ## Publications
 

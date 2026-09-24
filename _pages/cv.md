@@ -48,7 +48,7 @@ toc:
     <tbody>
       <tr>
         <td><a href="https://birthlab.github.io/" target="_blank" rel="noopener"><img src="/assets/img/birth-lab-logo.png" alt="BIRTH Lab" style="width:140px;height:auto;"></a><br>Tsinghua University, BIRTH Lab</td>
-        <td>Biomedical Engineering, Ph.D. student<br>Advisor: Qiyuan Tian<br>Biomedical imaging and image processing</td>
+        <td>Biomedical Engineering, Ph.D. student<br>Advisor: Qiyuan Tian<br>AI for drug discovery</td>
         <td>Fall 2027</td>
       </tr>
       <tr>
