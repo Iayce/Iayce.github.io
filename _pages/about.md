@@ -29,7 +29,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm **Jayce Xu** (徐晟杰). I am a **fourth-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. In **Fall 2027**, I will join the **[BIRTH Lab](https://birthlab.github.io/)** (Lab for Brain Imaging Research at Tsinghua), School of Biomedical Engineering, Tsinghua University, as a **PhD student**, advised by **Prof. Qiyuan Tian**. I currently intern in the **Antibody Design Group, Foundational Algorithms Department at BioMap (百图生科)**, and previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China** for both the **2024–2025** and **2025–2026** academic years, and the **HUST Youth May 4th Medal (2026)**. I have been actively engaged in **AI for Science and Medicine** research, focusing on:
+Hi, I'm **Jayce Xu** (徐晟杰). I am a **fourth-year undergraduate** in Software Engineering at Huazhong University of Science and Technology. In **Fall 2027**, I will join the **[BIRTH Lab](https://birthlab.github.io/)** (Lab for Brain Imaging Research at Tsinghua), School of Biomedical Engineering, Tsinghua University, as a **PhD student**, advised by **Prof. Qiyuan Tian**. I currently intern in the **Antibody Design Group, Foundational Algorithms Department at BioMap (百图生科)**, and previously interned as an **AI drug-discovery algorithm researcher at Baidu PaddlePaddle (Helix Team)**. I was awarded the **National Scholarship of China** for both the **2024–2025** and **2025–2026** academic years, the **HUST Youth May 4th Medal (2026)**, and the **HUST Merit Student Model** (三好学生标兵, 2026), HUST's highest undergraduate honor, 20 recipients annually. I have been actively engaged in **AI for Science and Medicine** research, focusing on:
 
 - AI drug discovery
 - Multi-agent systems
@@ -73,6 +73,7 @@ If you work on AI for science/medicine or model security, I would be glad to con
 
 <small>
 - **National Scholarship of China** (2025–2026 academic year) (Sep 2026)
+- **HUST Merit Student Model** (三好学生标兵, 2025–2026 academic year; HUST's highest undergraduate honor, 20 recipients annually) (Oct 2026)
 - **HUST University Merit Student** (校三好学生, 2025–2026 academic year) (Sep 2026)
 - **HUST Youth May 4th Medal** (student category; 10 recipients: 8 postgraduates + 2 undergraduates; Jayce was one of two undergraduates) (May 2026)
 - 19th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition "AI+" Special Track — **Special Prize** (OmnMedical project; topic: AI-based intelligent agent construction for drugs and advanced drug delivery)

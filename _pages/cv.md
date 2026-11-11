@@ -63,6 +63,7 @@ toc:
 <div class="cv-section">
   <h3>🏆 Awards & Honors</h3>
   <ul>
+    <li><strong>HUST Merit Student Model</strong> (三好学生标兵, 2025–2026 academic year; HUST's highest undergraduate honor, 20 recipients annually) (2026.10)</li>
     <li><strong>National Scholarship of China</strong> (2025–2026 academic year) (2026.09)</li>
     <li><strong>HUST University Merit Student</strong> (校三好学生, 2025–2026 academic year) (2026.09)</li>
     <li><strong>HUST Youth May 4th Medal</strong> (student category; 10 recipients total: 8 postgraduates + 2 undergraduates; Jayce was the junior-year undergraduate recipient) (2026.05)</li>
